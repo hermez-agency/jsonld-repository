@@ -92,6 +92,10 @@ pnpm lint
 pnpm build
 ```
 
+## Author
+
+A Hermez product — [hermez.dev](https://hermez.dev).
+
 ## License
 
 MIT
