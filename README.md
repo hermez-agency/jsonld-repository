@@ -29,7 +29,9 @@ pnpm add jsonld-repository
 ```
 
 It builds on [`jsonld-api-client`](https://github.com/hermez-agency/jsonld-api-client)
-for HTTP and [`ssr-safe-storage`](https://github.com/SalvadorCardona/ssr-safe-storage)
+
+for HTTP and [`ssr-safe-storage`](https://github.com/hermez-agency/ssr-safe-storage)
+
 for the local variant; both come along as dependencies.
 
 ## The interface
@@ -91,6 +93,10 @@ pnpm typecheck
 pnpm lint
 pnpm build
 ```
+
+## Author
+
+A Hermez product — [hermez.dev](https://hermez.dev).
 
 ## License
 
