@@ -28,11 +28,7 @@ const articles = localStorageRepository<Article>({ path: "/api/articles" })
 pnpm add jsonld-repository
 ```
 
-It builds on [`jsonld-api-client`](https://github.com/hermez-agency/jsonld-api-client)
-
-for HTTP and [`ssr-safe-storage`](https://github.com/hermez-agency/ssr-safe-storage)
-
-for the local variant; both come along as dependencies.
+It builds on [`jsonld-api-client`](https://github.com/hermez-agency/jsonld-api-client) for HTTP and [`ssr-safe-storage`](https://github.com/hermez-agency/ssr-safe-storage) for the local variant; both come along as dependencies.
 
 ## The interface
 
